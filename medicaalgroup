@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <!--primeira divisao-->
+<div class="homepage">
+<img src="logo.png" class="logo">  
+  <h1 class="titulo1">
+SP MEDICAL GROUP
+   
+  </h1>
+</div>
+
+  <button class= "btn1">
+
+   <b>
+    Início 
+   </b> 
+  </button>
+
+  <button class="btn2">
+<b>
+  Sair
+</b>
+  </button>
+
+
+  
+    <h1 class="titulo2">CONSULTAS</h1>
+
+  <table>
+  <tr>
+    <th>Nome</th>
+    <th>Horário</th>
+     <th>Dia</th>
+    <th>Especialidade</th>
+  </tr>
+  <tr>
+    <td>Guilherme Santiago Brito</td>
+    <td>08:30</td>
+    <td>10/04/23</td>
+    <td>Ortopedista</td>
+  </tr>
+  <tr>
+    <td>´´´´´´´´´´´´´´´´´´´´</td>
+    <td>´´´´´´´´´´</td>
+    <td>´´´´´´´´´´</td>
+    <td>´´´´´´´´´´´´´´</td>
+  </tr>
+  <tr>
+    <td>´´´´´´´´´´´´´´´´´´´´´</td>
+    <td>´´´´´´´´´´</td>
+    <td>´´´´´´´´´´</td>
+    <td>´´´´´´´´´´´´´´</td>
+  </tr>
+
+</table>
+
+
+
+
+
+  
+<div class= "final">
+    <h3 class="finaltexto"><p></p>MedicalGroupSP@outlook.com.br</p>
+  <p>  (19) 984456111</p>
+  <p>R Jacarandás, São Manoel,200, Nova Odessa,SP, Brasil</p></h3>
+  </div> 
+
+</body>
+</html>
+
+
+<!  STYLE CSS>
+html {
+  height: 100%;
+  width: 100%;
+}
+.homepage{
+
+border-width: 2px;
+    border-color: rgb #E7E4E4;
+    border-style: solid #E7E4E4;
+    background-color: #002F75;
+  opacity : 80%
+}
+
+
+.titulo1{
+  color:white;
+  text-align: center;
+}
+.titulo2 {
+  text-align: center;
+}
+  .logo {
+    width: 20%;
+    height: 20%;
+  }
+
